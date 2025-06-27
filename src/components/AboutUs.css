@@ -6,7 +6,6 @@ body, html {
   overflow-x: hidden;
 }
 
-/* Center everything vertically and horizontally */
 .zen-page-center {
   width: 100vw;
   height: 100vh;
